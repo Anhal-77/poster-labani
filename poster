@@ -602,7 +602,7 @@
             <h1 class="main-title">
                 منصة <a href="https://anhal-77.github.io/my-website/" target="_blank" class="highlight-link"><span class="highlight">"لبني"</span></a>
             </h1>
-            <p class="subtitle">المرجع الرقمي الاستشاري الأول لصحة فم وأسنان الأطفال</p>
+            <p class="subtitle">مرجع رقمي استشاري لصحة فم وأسنان الأطفال</p>
             <div class="developer-info">
             مبادرة رقمية رائدة في الرعاية الصحية الفموية
             </div>
@@ -641,7 +641,7 @@
                 
                 <!-- Survey Results -->
                 <div style="margin-top: 40px;">
-                    <h3 style="font-family: 'Cairo', sans-serif; font-size: 24px; font-weight: 700; color: var(--primary); margin-bottom: 25px;">نتائج الاستطلاع (15 مشارك):</h3>
+                    <h3 style="font-family: 'Cairo', sans-serif; font-size: 24px; font-weight: 700; color: var(--primary); margin-bottom: 25px;">نتائج الاستطلاع :</h3>
                     <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 25px;">
                         <div style="background: linear-gradient(135deg, #f8fbff 0%, #f0f7ff 100%); padding: 25px; border-radius: 16px; border-right: 4px solid var(--accent);">
                             <div style="font-size: 18px; font-weight: 600; color: var(--primary); margin-bottom: 12px;">✅ سهولة اللغة الطبية</div>
